@@ -1,0 +1,1 @@
+This project analyzes raw global user sign-up data to identify regional data quality trends, detect duplicate/incomplete profiles, and provide actionable insights to optimize marketing spend and reduce KYC verification failures.
