@@ -14,7 +14,7 @@ __pycache__/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
+
 
 # Data files (raw data is too large)
 data/raw/
