@@ -48,6 +48,6 @@ This project analyzes 5,000 global user sign-up profiles to identify demographic
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/global-user-onboarding-analytics.git
+   git clone https://github.com/Kusman123/global-user-onboarding-analytics.git
    cd global-user-onboarding-analytics
    ```
